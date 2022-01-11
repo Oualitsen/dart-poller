@@ -1,6 +1,6 @@
 name: poller
 description: A new Flutter package project.
-version: 0.0.1
+version: 0.0.2
 homepage:
 
 environment:
@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   web_socket_channel: ^2.1.0
-  rxdart: ^0.27.0
+  rxdart: ^0.27.3
 
 dev_dependencies:
   flutter_test:
